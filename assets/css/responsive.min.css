@@ -981,14 +981,14 @@ Tags:
         justify-content: flex-start;
         gap: 40px;
     }
-    .banner.v2 .banner-social li,
+/*     .banner.v2 .banner-social li,
     .banner.v3 .banner-social li {
         -webkit-writing-mode: vertical-rl;
         -ms-writing-mode: tb-rl;
         writing-mode: vertical-rl;
         -webkit-transform: rotate(180deg);
         transform: rotate(180deg);
-    }
+    } */
     .banner.v2 .banner-social a,
     .banner.v3 .banner-social a {
         padding: 0 0 0 4px;
